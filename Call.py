@@ -1,3 +1,3 @@
-import my_module
+import My_module
 
-my_module.print_message()
+My_module.print_message()
